@@ -16,5 +16,15 @@ public final class XmlConst {
     public static String XML_DOSAGE="dosage";
     public static String XML_PACKAGE="package";
     public static String XML_MEDICINES="medicines";
+    public static String XML_COMPANY="company";
+    public static String XML_GROUP="group";
+    public static String XML_NAME="name";
+    public static String XML_CONSISTENCE="consistence";
+    public static String XML_FREQUENCY="frequency";
+    public static String XML_NUMBER="number";
+    public static String XML_ISAFTERFOOD="isAfterFood";
+    public static String XML_TYPE="type";
+    public static String XML_NUMBER_PER_PACKAGE="numberPerPackage";
+    public static String XML_PRICE="price";
     private XmlConst(){}
 }

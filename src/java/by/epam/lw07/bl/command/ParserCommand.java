@@ -8,6 +8,7 @@ package by.epam.lw07.bl.command;
 
 import by.epam.lw07.bl.MedicineData;
 import by.epam.lw07.bl.manager.ConfigurationManager;
+import by.epam.lw07.bl.parser.DomParser;
 import by.epam.lw07.bl.parser.SaxParser;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -33,6 +34,10 @@ public class ParserCommand implements ICommand{
         if(parser.equals("sax")){
             SaxParser sp = new SaxParser();
             medicines = sp.parse(filePath);
+        }
+        if(parser.equals("dom")){
+            DomParser dp = new DomParser();
+            medicines = dp.parse(filePath);
         }
         request.setAttribute("medicines", medicines);
         page = ConfigurationManager.getInstance().getProperty(ConfigurationManager.PARSER_PAGE_PATH);
