@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><medicines xmlns="http://www.files.lw05.epam.by/Medicines">
+    <medicine id="2">
+        <name>iruksol</name>
+        <company>Abbott Laboratories</company>
+        <group>antibiotiks</group>
+        <consistence>pill</consistence>
+        <dosage id="1">
+            <frequency>perDay</frequency>
+            <number>3</number>
+            <isAfterFood>false</isAfterFood>
+        </dosage>
+        <package id="1">
+            <type>box</type>
+            <numberPerPackage>10</numberPerPackage>
+            <price>40.0</price>
+        </package>
+    </medicine>
+</medicines>
