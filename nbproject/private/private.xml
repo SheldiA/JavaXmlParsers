@@ -6,6 +6,7 @@
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/parser/MedicinesSaxHandler.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/nbproject/build-impl.xml</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/parser/SaxParser.java</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/constant/XmlConst.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/web/jsp/parser.jsp</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/parser/DomParser.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/web/index.jsp</file>
@@ -13,7 +14,6 @@
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/RequestHelper.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/command/NoCommand.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/web/jsp/error.jsp</file>
-            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/parser/IParser.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/manager/ConfigurationManager.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/MedicineData.java</file>
             <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Apache%20Tomcat%208.0.3/webapps/laba7/src/java/by/epam/lw07/bl/manager/MessageManager.java</file>

@@ -20,6 +20,16 @@
           <td>${medicine.id}</td>
           <td>${medicine.name}</td>
           <td>${medicine.company}</td>
+          <td>${medicine.group}</td>
+          <td>${medicine.consistence}</td>
+          <td>${medicine.dosageId}</td>
+          <td>${medicine.dosageFrequency}</td>
+          <td>${medicine.dosageNumber}</td>
+          <td>${medicine.isAfterFood}</td>
+          <td>${medicine.packageId}</td>
+          <td>${medicine.packageType}</td>
+          <td>${medicine.packagePrice}</td>
+          <td>${medicine.numberPerPackage}</td>
         </tr>
       </c:forEach>
     </table>

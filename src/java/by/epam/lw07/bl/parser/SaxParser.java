@@ -28,6 +28,9 @@ import org.xml.sax.helpers.XMLReaderFactory;
  * @author Anna
  */
 public class SaxParser implements IParser{
+    public SaxParser(){
+        String d = "";
+    }
     public  ArrayList<MedicineData> parse(String pathName){
         ArrayList<MedicineData> medicines = new ArrayList<MedicineData>();
         SAXParserFactory factory = SAXParserFactory.newInstance();
